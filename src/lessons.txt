@@ -1,0 +1,26 @@
+ID|Title|Category|AgeGroup|Tags
+1|The world is only as friendly as you are!|Emotional Awareness|10+|emotional awareness, friendliness
+2|Don't judge people by the way they look|Cultural Awareness|10+|cultural awareness, appearance
+3|Failure helps you strip away all non-essentials|Resilience|10+|resilience, failure
+4|What makes life worthwhile?|Emotional Awareness|10+|emotional awareness, life value
+5|You think you have it bad?|Empathy|10+|empathy, caring
+6|Boy always late for school|Empathy|10+|empathy, caring
+7|Funny HSBC commercials|Cultural Awareness|10+|cultural awareness
+8|Putting Yourself in Someone Else's Shoes|Empathy|10+|empathy, caring
+9|So, you think you are not prejudice?|Civility|10+|civility, prejudice, self awareness
+10|Resilience, grit!|Emotional Intelligence|10+|emotional intelligence, resilience, positivity
+11|If only you knew|Emotional Intelligence|10+|emotional intelligence
+12|Standing up to racism - "Exit right"|Anti-harrassment|10+|anti-harrassment, racism
+13|The power of words|Emotional Intelligence|10+|emotional intelligence
+14|Not all nods are the same!|Cultural Awareness|10+|cultural awareness, differences
+15|Can we be as one?|Compassion|10+|compassion, caring
+16|Do you care enough?|Empathy|10+|empathy, caring
+17|It's good karma|Compassion|10+|compassion
+18|It is not just about yourself|Civility|10+|civility, empathy
+19|How tolerant are you of people different from you?|Civility|10+|civility, differences
+20|Don't believe everything in the movies!|Cultural Awareness|10+|cultural awarenes
+21|Toxic People versus Positive People|Civility|10+|civility, positivity
+22|Prince Ea on Row, Row, Row Your Boat|Self Awareness|10+|self awareness
+23|Man in the queue|Kindness|10+|kindness, caring
+24|Japanese clean up after their stadium|Social Responsibility|10+|responsibility, self awareness, caring
+25|A bag of donuts|Prejudice|10+|prejudice, differences
