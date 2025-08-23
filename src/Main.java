@@ -10,7 +10,10 @@ public class Main {
         );
 
         // List<Lesson> matches = LessonAlgorithm.findTopMatches(lessons, user, 3);
-        System.out.println("Top recommended lessons:");
+        System.out.println("Lessons:");
+        for (Lesson lesson : lessons) {
+            System.out.println(lesson);
+        }
         // matches.forEach(System.out::println);
     }
 }

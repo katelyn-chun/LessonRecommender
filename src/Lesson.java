@@ -16,6 +16,6 @@ public class Lesson {
     }
 
     public String toString() {
-        return String.format("[%s] %s (%s, %s)", id, title, category);
+        return String.format("[%s] %s (Category: %s, Age Range: %s, Tags: %s)", id, title, category, ageGroup, tags);
     }
 }
