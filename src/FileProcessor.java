@@ -13,7 +13,7 @@ public class FileProcessor {
             String[] parts = line.split("\\|");
             String[] tagArray = parts[4].split(",");
             lessons.add(new Lesson(
-                parts[0], parts[1], parts[2], parts[3],
+                Integer.parseInt(parts[0]), parts[1], parts[2], parts[3],
                 Arrays.asList(tagArray)
             ));
         }
